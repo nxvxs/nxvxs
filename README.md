@@ -1,29 +1,30 @@
-🧑 Sobre mim
+# 👩🏻‍💻 Ruan Neves
+
+**`Estudante de Analise de Dados`**
 
 Olá! Eu sou o Ruan Neves, um profissional focado em análise de dados, BI e gestão financeira. Tenho experiência em projetos de precificação, automação de processos e desenvolvimento de soluções de software voltadas para o controle administrativo e financeiro.
 
 Meu Objetivo é ser o melhor.
 
+---
+### 🤖 Linguagens e Tecnologias
 
-📂 Projetos em Destaque
-📊 Sigma1 Corporativo (Projeto em andamento)
-Aplicativo de controle de projetos com funcionalidades como:
-
-Rastreamento de horas trabalhadas (h/h).
-Interface gráfica moderna em Tkinter com um design futurista em tons de azul.
-Registro e análise de dados em planilhas Excel.
-📈 Planilha de Precificação de Projetos
-Desenvolvimento de uma planilha dinâmica para controlar e monitorar a precificação de projetos, incluindo:
-
-Cálculo de horas trabalhadas (h/h).
-Controle financeiro, com desvio de horas e custo.
-Fácil visualização do andamento e eficiência de cada projeto.
-📊 Dashboards em Power BI
-Alguns exemplos de dashboards e relatórios interativos que desenvolvi para otimizar a visualização e análise de dados financeiros e operacionais.
-
-🛠️ Habilidades Técnicas
-Linguagens de Programação: Python, SQL.
-Ferramentas e Softwares: Power BI, Excel avançado, Pacote Office.
+<img 
+    align="left" 
+    alt="python"
+    title="python" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
+/>
+<img 
+    align="left" 
+    alt="SQL" 
+    title="SQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
+/>
 
 📜 Certificações
 Curso de Inglês
